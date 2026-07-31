@@ -1,4 +1,3 @@
-# CV
 <h1 align="center">📄 Curriculum Vitae — Michael Bernasconi</h1>
 
 <p align="center">
